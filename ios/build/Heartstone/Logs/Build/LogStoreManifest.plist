@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>10</integer>
+	<key>logs</key>
+	<dict>
+		<key>0982364B-7FFF-4194-A704-0CB819451507</key>
+		<dict>
+			<key>className</key>
+			<string>IDECommandLineBuildLog</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>0982364B-7FFF-4194-A704-0CB819451507.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Heartstone project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Heartstone</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Building workspace Heartstone with scheme Heartstone and configuration Debug</string>
+			<key>timeStartedRecording</key>
+			<real>589301043.29418397</real>
+			<key>timeStoppedRecording</key>
+			<real>589301046.71086299</real>
+			<key>title</key>
+			<string>Building workspace Heartstone with scheme Heartstone and configuration Debug</string>
+			<key>uniqueIdentifier</key>
+			<string>0982364B-7FFF-4194-A704-0CB819451507</string>
+		</dict>
+		<key>5BD840CE-A56D-46F9-8A42-356EADEB9383</key>
+		<dict>
+			<key>className</key>
+			<string>IDECommandLineBuildLog</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>5BD840CE-A56D-46F9-8A42-356EADEB9383.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Heartstone project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Heartstone</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Building workspace Heartstone with scheme Heartstone and configuration Debug</string>
+			<key>timeStartedRecording</key>
+			<real>589301915.86366498</real>
+			<key>timeStoppedRecording</key>
+			<real>589301919.10441601</real>
+			<key>title</key>
+			<string>Building workspace Heartstone with scheme Heartstone and configuration Debug</string>
+			<key>uniqueIdentifier</key>
+			<string>5BD840CE-A56D-46F9-8A42-356EADEB9383</string>
+		</dict>
+	</dict>
+</dict>
+</plist>
